@@ -1,0 +1,2395 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Test Suite & Adapter Init",
+      "x": 0,
+      "y": 0,
+      "width": 1320,
+      "height": 1020,
+      "color": "1"
+    },
+    {
+      "id": "n_adapter_adapter_addpolicies",
+      "type": "file",
+      "file": "graphify/obsidian/.AddPolicies().md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_loadpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.LoadPolicy().md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testadapterwithcustomtable",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapterWithCustomTable().md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testadapterwithmuldb",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapterWithMulDb().md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testadapterwithoutautomigrate",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapterWithoutAutoMigrate().md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testadapters",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapters().md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testaddpolicies",
+      "type": "file",
+      "file": "graphify/obsidian/TestAddPolicies().md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testaddpoliciesfullcolumn",
+      "type": "file",
+      "file": "graphify/obsidian/TestAddPoliciesFullColumn().md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_go",
+      "type": "file",
+      "file": "graphify/obsidian/adapter_test.go.md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_arrayequalswithoutorder",
+      "type": "file",
+      "file": "graphify/obsidian/arrayEqualsWithoutOrder().md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initadapter",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapter().md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initadapterwithgorminstance",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapterWithGormInstance().md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initadapterwithgorminstanceandcustomtable",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapterWithGormInstanceAndCustomTable().md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initadapterwithgorminstancebymuldb",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapterWithGormInstanceByMulDb().md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initadapterwithgorminstancebyname",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapterWithGormInstanceByName().md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initadapterwithgorminstancebyprefixandname",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapterWithGormInstanceByPrefixAndName().md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/initPolicy().md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testautosave",
+      "type": "file",
+      "file": "graphify/obsidian/testAutoSave().md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testbasicfeatures",
+      "type": "file",
+      "file": "graphify/obsidian/testBasicFeatures().md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testfilteredpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/testFilteredPolicy().md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testgetpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/testGetPolicy().md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testgetpolicywithoutorder",
+      "type": "file",
+      "file": "graphify/obsidian/testGetPolicyWithoutOrder().md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testindependencebetweenmuldb",
+      "type": "file",
+      "file": "graphify/obsidian/testIndependenceBetweenMulDb().md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testsaveload",
+      "type": "file",
+      "file": "graphify/obsidian/testSaveLoad().md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testupdatefilteredpolicies",
+      "type": "file",
+      "file": "graphify/obsidian/testUpdateFilteredPolicies().md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testupdatepolicies",
+      "type": "file",
+      "file": "graphify/obsidian/testUpdatePolicies().md",
+      "x": 220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testupdatepolicy",
+      "type": "file",
+      "file": "graphify/obsidian/testUpdatePolicy().md",
+      "x": 420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Adapter Policy Methods",
+      "x": 1400,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "2"
+    },
+    {
+      "id": "n_adapter_adapter_addlogger",
+      "type": "file",
+      "file": "graphify/obsidian/.AddLogger().md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_addpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.AddPolicy().md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_isfiltered",
+      "type": "file",
+      "file": "graphify/obsidian/.IsFiltered().md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_removefilteredpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.RemoveFilteredPolicy().md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_removepolicies",
+      "type": "file",
+      "file": "graphify/obsidian/.RemovePolicies().md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_removepolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.RemovePolicy().md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_savepolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.SavePolicy().md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_updatefilteredpolicies",
+      "type": "file",
+      "file": "graphify/obsidian/.UpdateFilteredPolicies().md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_updatepolicies",
+      "type": "file",
+      "file": "graphify/obsidian/.UpdatePolicies().md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_updatepolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.UpdatePolicy().md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_createtable",
+      "type": "file",
+      "file": "graphify/obsidian/.createTable().md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_droptable",
+      "type": "file",
+      "file": "graphify/obsidian/.dropTable().md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_getfulltablename",
+      "type": "file",
+      "file": "graphify/obsidian/.getFullTableName().md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_gettableinstance",
+      "type": "file",
+      "file": "graphify/obsidian/.getTableInstance().md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_rawdelete",
+      "type": "file",
+      "file": "graphify/obsidian/.rawDelete().md",
+      "x": 1820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_savepolicyline",
+      "type": "file",
+      "file": "graphify/obsidian/.savePolicyLine().md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_truncatetable",
+      "type": "file",
+      "file": "graphify/obsidian/.truncateTable().md",
+      "x": 1620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.md",
+      "x": 1820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_testnilfield",
+      "type": "file",
+      "file": "graphify/obsidian/TestNilField().md",
+      "x": 1420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_test_initadapterwithoutautomigrate",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapterWithoutAutoMigrate().md",
+      "x": 1620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "CasbinRule Model & Policy CRUD",
+      "x": 2580,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "3"
+    },
+    {
+      "id": "n_adapter_casbinrule_tablename",
+      "type": "file",
+      "file": "graphify/obsidian/.TableName().md",
+      "x": 2600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_casbinrule_querystring",
+      "type": "file",
+      "file": "graphify/obsidian/.queryString().md",
+      "x": 2800,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_casbinrule_tostringpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.toStringPolicy().md",
+      "x": 3000,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_addpolicies",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.AddPolicies.md",
+      "x": 2600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_addpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.AddPolicy.md",
+      "x": 2800,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_removefilteredpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.RemoveFilteredPolicy.md",
+      "x": 3000,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_removepolicies",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.RemovePolicies.md",
+      "x": 2600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_removepolicy",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.RemovePolicy.md",
+      "x": 2800,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_updatefilteredpolicies",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.UpdateFilteredPolicies.md",
+      "x": 3000,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_updatepolicies",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.UpdatePolicies.md",
+      "x": 2600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_updatepolicy",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.UpdatePolicy.md",
+      "x": 2800,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_droptable",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.dropTable.md",
+      "x": 3000,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_gettableinstance",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.getTableInstance.md",
+      "x": 2600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_rawdelete",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.rawDelete.md",
+      "x": 2800,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_savepolicyline",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.savePolicyLine.md",
+      "x": 3000,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_casbinrule",
+      "type": "file",
+      "file": "graphify/obsidian/CasbinRule.md",
+      "x": 2600,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_v303_migration_note",
+      "type": "file",
+      "file": "graphify/obsidian/README v3.0.3 table rename migration note.md",
+      "x": 2800,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_appendwhere",
+      "type": "file",
+      "file": "graphify/obsidian/appendWhere().md",
+      "x": 3000,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_checkqueryfield",
+      "type": "file",
+      "file": "graphify/obsidian/checkQueryField().md",
+      "x": 2600,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testautosave",
+      "type": "file",
+      "file": "graphify/obsidian/testAutoSave.md",
+      "x": 2800,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Adapter Construction & DB Open",
+      "x": 3760,
+      "y": 0,
+      "width": 1100,
+      "height": 820,
+      "color": "4"
+    },
+    {
+      "id": "n_adapter_adapter_open",
+      "type": "file",
+      "file": "graphify/obsidian/.Open().md",
+      "x": 3780,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_casbinruletable",
+      "type": "file",
+      "file": "graphify/obsidian/.casbinRuleTable().md",
+      "x": 3980,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_createdatabase",
+      "type": "file",
+      "file": "graphify/obsidian/.createDatabase().md",
+      "x": 4180,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_open",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.Open.md",
+      "x": 3780,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_casbinruletable",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.casbinRuleTable scope.md",
+      "x": 3980,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_createdatabase",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.createDatabase.md",
+      "x": 4180,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_createtable",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.createTable.md",
+      "x": 3780,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_getfulltablename",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.getFullTableName.md",
+      "x": 3980,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_newadapterbydb",
+      "type": "file",
+      "file": "graphify/obsidian/NewAdapterByDB().md",
+      "x": 4180,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_newadapterbydbusetablename",
+      "type": "file",
+      "file": "graphify/obsidian/NewAdapterByDBUseTableName().md",
+      "x": 3780,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_newadapterbydbwithcustomtable",
+      "type": "file",
+      "file": "graphify/obsidian/NewAdapterByDBWithCustomTable().md",
+      "x": 3980,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_customize_table_columns",
+      "type": "file",
+      "file": "graphify/obsidian/README Customize table columns example.md",
+      "x": 4180,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_turnoff_automigrate",
+      "type": "file",
+      "file": "graphify/obsidian/README Turn off AutoMigrate section.md",
+      "x": 3780,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_supported_databases_rationale",
+      "type": "file",
+      "file": "graphify/obsidian/README sqlite driver choice rationale.md",
+      "x": 3980,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testadapterwithcustomtable",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapterWithCustomTable.md",
+      "x": 4180,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testadapterwithoutautomigrate",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapterWithoutAutoMigrate.md",
+      "x": 3780,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_turnoffautomigrate",
+      "type": "file",
+      "file": "graphify/obsidian/TurnOffAutoMigrate().md",
+      "x": 3980,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_opendbconnection",
+      "type": "file",
+      "file": "graphify/obsidian/openDBConnection().md",
+      "x": 4180,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_open_opens_map",
+      "type": "file",
+      "file": "graphify/obsidian/opens dialect map (no sqlite).md",
+      "x": 3780,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_open_sqlite3_opens_map",
+      "type": "file",
+      "file": "graphify/obsidian/opens dialect map (with sqlite).md",
+      "x": 3980,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "Multi-DB Pool & Lifecycle",
+      "x": 0,
+      "y": 1100,
+      "width": 880,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n_adapter_adapter_close",
+      "type": "file",
+      "file": "graphify/obsidian/.Close().md",
+      "x": 20,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_specificpolicy_resolve",
+      "type": "file",
+      "file": "graphify/obsidian/.Resolve().md",
+      "x": 220,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_dbpool_switchdb",
+      "type": "file",
+      "file": "graphify/obsidian/.switchDb().md",
+      "x": 420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_close",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.Close.md",
+      "x": 20,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_dbpool",
+      "type": "file",
+      "file": "graphify/obsidian/DbPool.md",
+      "x": 220,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_xfork_branch_origin",
+      "type": "file",
+      "file": "graphify/obsidian/Fork main branch origin record.md",
+      "x": 420,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_initdbresolver",
+      "type": "file",
+      "file": "graphify/obsidian/InitDbResolver().md",
+      "x": 20,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_newadapter",
+      "type": "file",
+      "file": "graphify/obsidian/NewAdapter().md",
+      "x": 220,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_newadapterbymuldb",
+      "type": "file",
+      "file": "graphify/obsidian/NewAdapterByMulDb().md",
+      "x": 420,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_newfilteredadapter",
+      "type": "file",
+      "file": "graphify/obsidian/NewFilteredAdapter().md",
+      "x": 20,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_readme_simple_example",
+      "type": "file",
+      "file": "graphify/obsidian/README simple example.md",
+      "x": 220,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testadapterwithmuldb",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapterWithMulDb.md",
+      "x": 420,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testnilfield",
+      "type": "file",
+      "file": "graphify/obsidian/TestNilField.md",
+      "x": 20,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_go",
+      "type": "file",
+      "file": "graphify/obsidian/adapter.go.md",
+      "x": 220,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_finalizer",
+      "type": "file",
+      "file": "graphify/obsidian/finalizer().md",
+      "x": 420,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_specificpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/specificPolicy.md",
+      "x": 20,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Filtered Policy Loading",
+      "x": 1400,
+      "y": 1100,
+      "width": 880,
+      "height": 620,
+      "color": "6"
+    },
+    {
+      "id": "n_adapter_adapter_loadfilteredpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/.LoadFilteredPolicy().md",
+      "x": 1420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_adapter_filterquery",
+      "type": "file",
+      "file": "graphify/obsidian/.filterQuery().md",
+      "x": 1620,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_loadfilteredpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.LoadFilteredPolicy.md",
+      "x": 1820,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_loadpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.LoadPolicy.md",
+      "x": 1420,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_savepolicy",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.SavePolicy.md",
+      "x": 1620,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_filterquery",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.filterQuery.md",
+      "x": 1820,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_truncatetable",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.truncateTable.md",
+      "x": 1420,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_filter",
+      "type": "file",
+      "file": "graphify/obsidian/Filter.md",
+      "x": 1620,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testadapters",
+      "type": "file",
+      "file": "graphify/obsidian/TestAdapters.md",
+      "x": 1820,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_initadapter",
+      "type": "file",
+      "file": "graphify/obsidian/initAdapter test helper.md",
+      "x": 1420,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_initpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/initPolicy test helper.md",
+      "x": 1620,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adapter_loadpolicyline",
+      "type": "file",
+      "file": "graphify/obsidian/loadPolicyLine().md",
+      "x": 1820,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testfilteredpolicy",
+      "type": "file",
+      "file": "graphify/obsidian/testFilteredPolicy.md",
+      "x": 1420,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adaptertest_testsaveload",
+      "type": "file",
+      "file": "graphify/obsidian/testSaveLoad.md",
+      "x": 1620,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "DB Open Driver Switch",
+      "x": 2580,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "1"
+    },
+    {
+      "id": "n_open_go",
+      "type": "file",
+      "file": "graphify/obsidian/open.go.md",
+      "x": 2600,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "SQLite3 Open Helper",
+      "x": 3760,
+      "y": 1100,
+      "width": 600,
+      "height": 400,
+      "color": "2"
+    },
+    {
+      "id": "n_open_sqlite3_go",
+      "type": "file",
+      "file": "graphify/obsidian/open_sqlite3.go.md",
+      "x": 3780,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Logger Wiring",
+      "x": 0,
+      "y": 1900,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_adapter_addlogger",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.AddLogger.md",
+      "x": 20,
+      "y": 1980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "IsFiltered Check",
+      "x": 1400,
+      "y": 1900,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_adapter_isfiltered",
+      "type": "file",
+      "file": "graphify/obsidian/Adapter.IsFiltered.md",
+      "x": 1420,
+      "y": 1980,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_adapter_go_adapter_casbinrule",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_casbinrule",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_filter",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_filter",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_adapter",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_adapter",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_finalizer",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_finalizer",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_specificpolicy",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_specificpolicy",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_dbpool",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_dbpool",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_newadapter",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_newadapter",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_newadapterbydbusetablename",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_newadapterbydbusetablename",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_initdbresolver",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_initdbresolver",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_newadapterbymuldb",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_newadapterbymuldb",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_newfilteredadapter",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_newfilteredadapter",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_newadapterbydb",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_newadapterbydb",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_turnoffautomigrate",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_turnoffautomigrate",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_newadapterbydbwithcustomtable",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_newadapterbydbwithcustomtable",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_opendbconnection",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_opendbconnection",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_loadpolicyline",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_loadpolicyline",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_checkqueryfield",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_checkqueryfield",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_go_adapter_appendwhere",
+      "fromNode": "n_adapter_go",
+      "toNode": "n_adapter_appendwhere",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_adapter_casbinrule_tablename",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_adapter_casbinrule_tablename",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_adapter_casbinrule_querystring",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_adapter_casbinrule_querystring",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_adapter_casbinrule_tostringpolicy",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_adapter_casbinrule_tostringpolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_adapter_savepolicyline",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_adapter_savepolicyline",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_adapter_loadpolicyline",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_adapter_loadpolicyline",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_adapter_rawdelete",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_adapter_rawdelete",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_adapter_appendwhere",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_adapter_appendwhere",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_readme_customize_table_columns",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_readme_customize_table_columns",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_readme_v303_migration_note",
+      "fromNode": "n_adapter_casbinrule",
+      "toNode": "n_readme_v303_migration_note",
+      "label": "rationale_for [INFERRED]"
+    },
+    {
+      "id": "e_adapter_filter_adapter_loadfilteredpolicy",
+      "fromNode": "n_adapter_filter",
+      "toNode": "n_adapter_loadfilteredpolicy",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_filter_adapter_filterquery",
+      "fromNode": "n_adapter_filter",
+      "toNode": "n_adapter_filterquery",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_filter_adaptertest_testfilteredpolicy",
+      "fromNode": "n_adapter_filter",
+      "toNode": "n_adaptertest_testfilteredpolicy",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_createdatabase",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_createdatabase",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_open",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_open",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_addlogger",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_addlogger",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_close",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_close",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_gettableinstance",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_gettableinstance",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_getfulltablename",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_getfulltablename",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_casbinruletable",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_casbinruletable",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_createtable",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_createtable",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_droptable",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_droptable",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_truncatetable",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_truncatetable",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_loadpolicy",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_loadpolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_loadfilteredpolicy",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_loadfilteredpolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_isfiltered",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_isfiltered",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_filterquery",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_filterquery",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_savepolicyline",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_savepolicyline",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_savepolicy",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_savepolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_addpolicy",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_addpolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_removepolicy",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_removepolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_addpolicies",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_addpolicies",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_removepolicies",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_removepolicies",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_removefilteredpolicy",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_removefilteredpolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_rawdelete",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_rawdelete",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_updatepolicy",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_updatepolicy",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_updatepolicies",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_updatepolicies",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_adapter_updatefilteredpolicies",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_adapter_updatefilteredpolicies",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_adapter_finalizer",
+      "fromNode": "n_adapter_adapter",
+      "toNode": "n_adapter_finalizer",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_finalizer_adapter_adapter_close",
+      "fromNode": "n_adapter_finalizer",
+      "toNode": "n_adapter_adapter_close",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_finalizer_adapter_newadapter",
+      "fromNode": "n_adapter_finalizer",
+      "toNode": "n_adapter_newadapter",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_finalizer_adapter_close",
+      "fromNode": "n_adapter_finalizer",
+      "toNode": "n_adapter_close",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_specificpolicy_adapter_specificpolicy_resolve",
+      "fromNode": "n_adapter_specificpolicy",
+      "toNode": "n_adapter_specificpolicy_resolve",
+      "label": "method [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_specificpolicy_adapter_initdbresolver",
+      "fromNode": "n_adapter_specificpolicy",
+      "toNode": "n_adapter_initdbresolver",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_specificpolicy_adapter_dbpool",
+      "fromNode": "n_adapter_specificpolicy",
+      "toNode": "n_adapter_dbpool",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_dbpool_adapter_dbpool_switchdb",
+      "fromNode": "n_adapter_dbpool",
+      "toNode": "n_adapter_dbpool_switchdb",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_dbpool_adapter_initdbresolver",
+      "fromNode": "n_adapter_dbpool",
+      "toNode": "n_adapter_initdbresolver",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_dbpool_switchdb_adapter_newadapterbymuldb",
+      "fromNode": "n_adapter_dbpool_switchdb",
+      "toNode": "n_adapter_newadapterbymuldb",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapter_adapter_adapter_open",
+      "fromNode": "n_adapter_newadapter",
+      "toNode": "n_adapter_adapter_open",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapter_adapter_newfilteredadapter",
+      "fromNode": "n_adapter_newadapter",
+      "toNode": "n_adapter_newfilteredadapter",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapter_adapter_open",
+      "fromNode": "n_adapter_newadapter",
+      "toNode": "n_adapter_open",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapter_adaptertest_initadapter",
+      "fromNode": "n_adapter_newadapter",
+      "toNode": "n_adaptertest_initadapter",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapter_adaptertest_testadapterwithmuldb",
+      "fromNode": "n_adapter_newadapter",
+      "toNode": "n_adaptertest_testadapterwithmuldb",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapter_adaptertest_testnilfield",
+      "fromNode": "n_adapter_newadapter",
+      "toNode": "n_adaptertest_testnilfield",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapter_readme_simple_example",
+      "fromNode": "n_adapter_newadapter",
+      "toNode": "n_readme_simple_example",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_adapter_casbinruletable",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_adapter_casbinruletable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_adapter_createtable",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_adapter_createtable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_newadapterbymuldb",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_newadapterbymuldb",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_newadapterbydb",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_newadapterbydb",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_newadapterbydbwithcustomtable",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_newadapterbydbwithcustomtable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_test_initadapterwithgorminstancebyname",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_test_initadapterwithgorminstancebyname",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_test_initadapterwithgorminstancebyprefixandname",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_test_initadapterwithgorminstancebyprefixandname",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_casbinruletable",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_casbinruletable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbusetablename_adapter_createtable",
+      "fromNode": "n_adapter_newadapterbydbusetablename",
+      "toNode": "n_adapter_createtable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_initdbresolver_adapter_adapter_open",
+      "fromNode": "n_adapter_initdbresolver",
+      "toNode": "n_adapter_adapter_open",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_initdbresolver_adapter_test_testindependencebetweenmuldb",
+      "fromNode": "n_adapter_initdbresolver",
+      "toNode": "n_adapter_test_testindependencebetweenmuldb",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_initdbresolver_adapter_test_testbasicfeatures",
+      "fromNode": "n_adapter_initdbresolver",
+      "toNode": "n_adapter_test_testbasicfeatures",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_initdbresolver_adaptertest_testadapterwithmuldb",
+      "fromNode": "n_adapter_initdbresolver",
+      "toNode": "n_adaptertest_testadapterwithmuldb",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbymuldb_adapter_test_initadapterwithgorminstancebymuldb",
+      "fromNode": "n_adapter_newadapterbymuldb",
+      "toNode": "n_adapter_test_initadapterwithgorminstancebymuldb",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydb_adapter_test_initadapterwithgorminstance",
+      "fromNode": "n_adapter_newadapterbydb",
+      "toNode": "n_adapter_test_initadapterwithgorminstance",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_turnoffautomigrate_adapter_test_initadapterwithoutautomigrate",
+      "fromNode": "n_adapter_turnoffautomigrate",
+      "toNode": "n_adapter_test_initadapterwithoutautomigrate",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_turnoffautomigrate_adapter_createtable",
+      "fromNode": "n_adapter_turnoffautomigrate",
+      "toNode": "n_adapter_createtable",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_adapter_turnoffautomigrate_adaptertest_testadapterwithoutautomigrate",
+      "fromNode": "n_adapter_turnoffautomigrate",
+      "toNode": "n_adaptertest_testadapterwithoutautomigrate",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_turnoffautomigrate_readme_turnoff_automigrate",
+      "fromNode": "n_adapter_turnoffautomigrate",
+      "toNode": "n_readme_turnoff_automigrate",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbwithcustomtable_adapter_test_initadapterwithgorminstanceandcustomtable",
+      "fromNode": "n_adapter_newadapterbydbwithcustomtable",
+      "toNode": "n_adapter_test_initadapterwithgorminstanceandcustomtable",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbwithcustomtable_adapter_test_initadapterwithoutautomigrate",
+      "fromNode": "n_adapter_newadapterbydbwithcustomtable",
+      "toNode": "n_adapter_test_initadapterwithoutautomigrate",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbwithcustomtable_adapter_createtable",
+      "fromNode": "n_adapter_newadapterbydbwithcustomtable",
+      "toNode": "n_adapter_createtable",
+      "label": "shares_data_with [INFERRED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbwithcustomtable_adaptertest_testadapterwithcustomtable",
+      "fromNode": "n_adapter_newadapterbydbwithcustomtable",
+      "toNode": "n_adaptertest_testadapterwithcustomtable",
+      "label": "references [INFERRED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbwithcustomtable_adaptertest_testadapterwithoutautomigrate",
+      "fromNode": "n_adapter_newadapterbydbwithcustomtable",
+      "toNode": "n_adaptertest_testadapterwithoutautomigrate",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbwithcustomtable_readme_turnoff_automigrate",
+      "fromNode": "n_adapter_newadapterbydbwithcustomtable",
+      "toNode": "n_readme_turnoff_automigrate",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_newadapterbydbwithcustomtable_readme_customize_table_columns",
+      "fromNode": "n_adapter_newadapterbydbwithcustomtable",
+      "toNode": "n_readme_customize_table_columns",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_opendbconnection_adapter_adapter_open",
+      "fromNode": "n_adapter_opendbconnection",
+      "toNode": "n_adapter_adapter_open",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_opendbconnection_adapter_adapter_createdatabase",
+      "fromNode": "n_adapter_opendbconnection",
+      "toNode": "n_adapter_adapter_createdatabase",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_opendbconnection_adapter_open",
+      "fromNode": "n_adapter_opendbconnection",
+      "toNode": "n_adapter_open",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_opendbconnection_adapter_createdatabase",
+      "fromNode": "n_adapter_opendbconnection",
+      "toNode": "n_adapter_createdatabase",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_opendbconnection_open_opens_map",
+      "fromNode": "n_adapter_opendbconnection",
+      "toNode": "n_open_opens_map",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_opendbconnection_open_sqlite3_opens_map",
+      "fromNode": "n_adapter_opendbconnection",
+      "toNode": "n_open_sqlite3_opens_map",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_createdatabase_adapter_adapter_open",
+      "fromNode": "n_adapter_adapter_createdatabase",
+      "toNode": "n_adapter_adapter_open",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_open_adapter_adapter_casbinruletable",
+      "fromNode": "n_adapter_adapter_open",
+      "toNode": "n_adapter_adapter_casbinruletable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_open_adapter_adapter_createtable",
+      "fromNode": "n_adapter_adapter_open",
+      "toNode": "n_adapter_adapter_createtable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_open_adapter_test_testadapterwithcustomtable",
+      "fromNode": "n_adapter_adapter_open",
+      "toNode": "n_adapter_test_testadapterwithcustomtable",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_open_adapter_test_testadapterwithoutautomigrate",
+      "fromNode": "n_adapter_adapter_open",
+      "toNode": "n_adapter_test_testadapterwithoutautomigrate",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_open_adapter_test_testindependencebetweenmuldb",
+      "fromNode": "n_adapter_adapter_open",
+      "toNode": "n_adapter_test_testindependencebetweenmuldb",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_open_adapter_test_testbasicfeatures",
+      "fromNode": "n_adapter_adapter_open",
+      "toNode": "n_adapter_test_testbasicfeatures",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_open_adapter_test_testadapters",
+      "fromNode": "n_adapter_adapter_open",
+      "toNode": "n_adapter_test_testadapters",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_addlogger_adapter_test_testadapters",
+      "fromNode": "n_adapter_adapter_addlogger",
+      "toNode": "n_adapter_test_testadapters",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_gettableinstance_adapter_adapter_createtable",
+      "fromNode": "n_adapter_adapter_gettableinstance",
+      "toNode": "n_adapter_adapter_createtable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_gettableinstance_adapter_adapter_droptable",
+      "fromNode": "n_adapter_adapter_gettableinstance",
+      "toNode": "n_adapter_adapter_droptable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_gettableinstance_adapter_adapter_savepolicyline",
+      "fromNode": "n_adapter_adapter_gettableinstance",
+      "toNode": "n_adapter_adapter_savepolicyline",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_gettableinstance_adapter_adapter_removefilteredpolicy",
+      "fromNode": "n_adapter_adapter_gettableinstance",
+      "toNode": "n_adapter_adapter_removefilteredpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_gettableinstance_adapter_adapter_rawdelete",
+      "fromNode": "n_adapter_adapter_gettableinstance",
+      "toNode": "n_adapter_adapter_rawdelete",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_gettableinstance_adapter_adapter_updatefilteredpolicies",
+      "fromNode": "n_adapter_adapter_gettableinstance",
+      "toNode": "n_adapter_adapter_updatefilteredpolicies",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_getfulltablename_adapter_adapter_casbinruletable",
+      "fromNode": "n_adapter_adapter_getfulltablename",
+      "toNode": "n_adapter_adapter_casbinruletable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_getfulltablename_adapter_adapter_createtable",
+      "fromNode": "n_adapter_adapter_getfulltablename",
+      "toNode": "n_adapter_adapter_createtable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_getfulltablename_adapter_adapter_truncatetable",
+      "fromNode": "n_adapter_adapter_getfulltablename",
+      "toNode": "n_adapter_adapter_truncatetable",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_getfulltablename_adapter_test_initadapterwithoutautomigrate",
+      "fromNode": "n_adapter_adapter_getfulltablename",
+      "toNode": "n_adapter_test_initadapterwithoutautomigrate",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_createtable_adapter_test_initadapterwithoutautomigrate",
+      "fromNode": "n_adapter_adapter_createtable",
+      "toNode": "n_adapter_test_initadapterwithoutautomigrate",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_droptable_adapter_test_initadapterwithoutautomigrate",
+      "fromNode": "n_adapter_adapter_droptable",
+      "toNode": "n_adapter_test_initadapterwithoutautomigrate",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_truncatetable_adapter_adapter_savepolicy",
+      "fromNode": "n_adapter_adapter_truncatetable",
+      "toNode": "n_adapter_adapter_savepolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_loadpolicyline_adapter_adapter_loadpolicy",
+      "fromNode": "n_adapter_loadpolicyline",
+      "toNode": "n_adapter_adapter_loadpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_loadpolicyline_adapter_adapter_loadfilteredpolicy",
+      "fromNode": "n_adapter_loadpolicyline",
+      "toNode": "n_adapter_adapter_loadfilteredpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_loadpolicyline_adapter_loadpolicy",
+      "fromNode": "n_adapter_loadpolicyline",
+      "toNode": "n_adapter_loadpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_loadpolicyline_adapter_loadfilteredpolicy",
+      "fromNode": "n_adapter_loadpolicyline",
+      "toNode": "n_adapter_loadfilteredpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_initpolicy",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_initpolicy",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_testnilfield",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_testnilfield",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_testautosave",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_testautosave",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_testupdatepolicy",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_testupdatepolicy",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_testupdatepolicies",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_testupdatepolicies",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_testupdatefilteredpolicies",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_testupdatefilteredpolicies",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_testaddpolicies",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_testaddpolicies",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadpolicy_adapter_test_testaddpoliciesfullcolumn",
+      "fromNode": "n_adapter_adapter_loadpolicy",
+      "toNode": "n_adapter_test_testaddpoliciesfullcolumn",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadfilteredpolicy_adapter_adapter_filterquery",
+      "fromNode": "n_adapter_adapter_loadfilteredpolicy",
+      "toNode": "n_adapter_adapter_filterquery",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_loadfilteredpolicy_adapter_test_testfilteredpolicy",
+      "fromNode": "n_adapter_adapter_loadfilteredpolicy",
+      "toNode": "n_adapter_test_testfilteredpolicy",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_savepolicy",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_savepolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_addpolicy",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_addpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_removepolicy",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_removepolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_addpolicies",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_addpolicies",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_removepolicies",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_removepolicies",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_updatepolicy",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_updatepolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_updatepolicies",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_updatepolicies",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicyline_adapter_adapter_updatefilteredpolicies",
+      "fromNode": "n_adapter_adapter_savepolicyline",
+      "toNode": "n_adapter_adapter_updatefilteredpolicies",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicy_adapter_test_initpolicy",
+      "fromNode": "n_adapter_adapter_savepolicy",
+      "toNode": "n_adapter_test_initpolicy",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_savepolicy_adapter_test_testnilfield",
+      "fromNode": "n_adapter_adapter_savepolicy",
+      "toNode": "n_adapter_test_testnilfield",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_addpolicy_adapter_test_testnilfield",
+      "fromNode": "n_adapter_adapter_addpolicy",
+      "toNode": "n_adapter_test_testnilfield",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_addpolicy_adapter_test_testautosave",
+      "fromNode": "n_adapter_adapter_addpolicy",
+      "toNode": "n_adapter_test_testautosave",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_addpolicy_adapter_test_testindependencebetweenmuldb",
+      "fromNode": "n_adapter_adapter_addpolicy",
+      "toNode": "n_adapter_test_testindependencebetweenmuldb",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_removepolicy_adapter_adapter_rawdelete",
+      "fromNode": "n_adapter_adapter_removepolicy",
+      "toNode": "n_adapter_adapter_rawdelete",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_removepolicy_adapter_test_testautosave",
+      "fromNode": "n_adapter_adapter_removepolicy",
+      "toNode": "n_adapter_test_testautosave",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_addpolicies_adapter_test_testaddpolicies",
+      "fromNode": "n_adapter_adapter_addpolicies",
+      "toNode": "n_adapter_test_testaddpolicies",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_addpolicies_adapter_test_testaddpoliciesfullcolumn",
+      "fromNode": "n_adapter_adapter_addpolicies",
+      "toNode": "n_adapter_test_testaddpoliciesfullcolumn",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_removepolicies_adapter_adapter_rawdelete",
+      "fromNode": "n_adapter_adapter_removepolicies",
+      "toNode": "n_adapter_adapter_rawdelete",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_removefilteredpolicy_adapter_adapter_rawdelete",
+      "fromNode": "n_adapter_adapter_removefilteredpolicy",
+      "toNode": "n_adapter_adapter_rawdelete",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_removefilteredpolicy_adapter_checkqueryfield",
+      "fromNode": "n_adapter_adapter_removefilteredpolicy",
+      "toNode": "n_adapter_checkqueryfield",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_removefilteredpolicy_adapter_test_testautosave",
+      "fromNode": "n_adapter_adapter_removefilteredpolicy",
+      "toNode": "n_adapter_test_testautosave",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_checkqueryfield_adapter_removefilteredpolicy",
+      "fromNode": "n_adapter_checkqueryfield",
+      "toNode": "n_adapter_removefilteredpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_appendwhere_adapter_rawdelete",
+      "fromNode": "n_adapter_appendwhere",
+      "toNode": "n_adapter_rawdelete",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_adapter_appendwhere_adapter_casbinrule_querystring",
+      "fromNode": "n_adapter_appendwhere",
+      "toNode": "n_adapter_casbinrule_querystring",
+      "label": "semantically_similar_to [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_updatepolicy_adapter_test_testupdatepolicy",
+      "fromNode": "n_adapter_adapter_updatepolicy",
+      "toNode": "n_adapter_test_testupdatepolicy",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_updatepolicies_adapter_test_testupdatepolicies",
+      "fromNode": "n_adapter_adapter_updatepolicies",
+      "toNode": "n_adapter_test_testupdatepolicies",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_adapter_updatefilteredpolicies_adapter_casbinrule_querystring",
+      "fromNode": "n_adapter_adapter_updatefilteredpolicies",
+      "toNode": "n_adapter_casbinrule_querystring",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_updatefilteredpolicies_adapter_casbinrule_tostringpolicy",
+      "fromNode": "n_adapter_adapter_updatefilteredpolicies",
+      "toNode": "n_adapter_casbinrule_tostringpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_adapter_updatefilteredpolicies_adapter_test_testupdatefilteredpolicies",
+      "fromNode": "n_adapter_adapter_updatefilteredpolicies",
+      "toNode": "n_adapter_test_testupdatefilteredpolicies",
+      "label": "calls [INFERRED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_querystring_adapter_updatefilteredpolicies",
+      "fromNode": "n_adapter_casbinrule_querystring",
+      "toNode": "n_adapter_updatefilteredpolicies",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_casbinrule_tostringpolicy_adapter_updatefilteredpolicies",
+      "fromNode": "n_adapter_casbinrule_tostringpolicy",
+      "toNode": "n_adapter_updatefilteredpolicies",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testgetpolicy",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testgetpolicy",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testgetpolicywithoutorder",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testgetpolicywithoutorder",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_arrayequalswithoutorder",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_arrayequalswithoutorder",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initpolicy",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initpolicy",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testsaveload",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testsaveload",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initadapter",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initadapter",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initadapterwithgorminstance",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initadapterwithgorminstance",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initadapterwithgorminstanceandcustomtable",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initadapterwithgorminstanceandcustomtable",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initadapterwithgorminstancebyname",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initadapterwithgorminstancebyname",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initadapterwithoutautomigrate",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initadapterwithoutautomigrate",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initadapterwithgorminstancebymuldb",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initadapterwithgorminstancebymuldb",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_initadapterwithgorminstancebyprefixandname",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_initadapterwithgorminstancebyprefixandname",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testnilfield",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testnilfield",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testautosave",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testautosave",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testfilteredpolicy",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testfilteredpolicy",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testupdatepolicy",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testupdatepolicy",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testupdatepolicies",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testupdatepolicies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testupdatefilteredpolicies",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testupdatefilteredpolicies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testadapterwithcustomtable",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testadapterwithcustomtable",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testadapterwithoutautomigrate",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testadapterwithoutautomigrate",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testadapterwithmuldb",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testadapterwithmuldb",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testindependencebetweenmuldb",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testindependencebetweenmuldb",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testbasicfeatures",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testbasicfeatures",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testadapters",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testadapters",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testaddpolicies",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testaddpolicies",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_go_adapter_test_testaddpoliciesfullcolumn",
+      "fromNode": "n_adapter_test_go",
+      "toNode": "n_adapter_test_testaddpoliciesfullcolumn",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_testgetpolicy_adapter_test_initpolicy",
+      "fromNode": "n_adapter_test_testgetpolicy",
+      "toNode": "n_adapter_test_initpolicy",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_testgetpolicy_adapter_test_testsaveload",
+      "fromNode": "n_adapter_test_testgetpolicy",
+      "toNode": "n_adapter_test_testsaveload",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_adapter_test_testgetpolicy_adapter_test_testautosave",
+      "fromNode": "n_adapter_test_testgetpolicy",
+      "toNode": "n_adapter_test_testautosave",
+      "label": "calls [EXTRACTED]"
+    }
+  ]
+}
