@@ -1,0 +1,74 @@
+{
+  "colorGroups": [
+    {
+      "query": "tag:#community/Test_Suite_&_Adapter_Init",
+      "color": {
+        "a": 1,
+        "rgb": 5142951
+      }
+    },
+    {
+      "query": "tag:#community/Adapter_Policy_Methods",
+      "color": {
+        "a": 1,
+        "rgb": 15896107
+      }
+    },
+    {
+      "query": "tag:#community/CasbinRule_Model_&_Policy_CRUD",
+      "color": {
+        "a": 1,
+        "rgb": 14767961
+      }
+    },
+    {
+      "query": "tag:#community/Adapter_Construction_&_DB_Open",
+      "color": {
+        "a": 1,
+        "rgb": 7780274
+      }
+    },
+    {
+      "query": "tag:#community/Multi-DB_Pool_&_Lifecycle",
+      "color": {
+        "a": 1,
+        "rgb": 5873999
+      }
+    },
+    {
+      "query": "tag:#community/Filtered_Policy_Loading",
+      "color": {
+        "a": 1,
+        "rgb": 15583560
+      }
+    },
+    {
+      "query": "tag:#community/DB_Open_Driver_Switch",
+      "color": {
+        "a": 1,
+        "rgb": 11565729
+      }
+    },
+    {
+      "query": "tag:#community/SQLite3_Open_Helper",
+      "color": {
+        "a": 1,
+        "rgb": 16752039
+      }
+    },
+    {
+      "query": "tag:#community/Logger_Wiring",
+      "color": {
+        "a": 1,
+        "rgb": 10253663
+      }
+    },
+    {
+      "query": "tag:#community/IsFiltered_Check",
+      "color": {
+        "a": 1,
+        "rgb": 12234924
+      }
+    }
+  ]
+}
