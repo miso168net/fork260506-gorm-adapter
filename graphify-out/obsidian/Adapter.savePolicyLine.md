@@ -1,12 +1,12 @@
 ---
 source_file: "adapter.go"
 type: "code"
-community: "CasbinRule Model & Policy CRUD"
+community: "Batch & Update CRUD"
 location: "adapter.go:486-516"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/CasbinRule_Model_&_Policy_CRUD
+  - community/Batch__Update_CRUD
 ---
 
 # Adapter.savePolicyLine
@@ -21,6 +21,7 @@ tags:
 - [[Adapter.UpdatePolicies]] - `calls` [EXTRACTED]
 - [[Adapter.UpdatePolicy]] - `calls` [EXTRACTED]
 - [[Adapter.getTableInstance]] - `calls` [EXTRACTED]
-- [[CasbinRule]] - `references` [EXTRACTED]
+- [[CasbinRule struct]] - `references` [EXTRACTED]
+- [[Project file tree index 2026-05-06 snapshot]] - `references` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/CasbinRule_Model_&_Policy_CRUD
+#graphify/code #graphify/EXTRACTED #community/Batch__Update_CRUD

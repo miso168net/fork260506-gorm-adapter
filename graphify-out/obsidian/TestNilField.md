@@ -1,17 +1,17 @@
 ---
 source_file: "adapter_test.go"
 type: "code"
-community: "Multi-DB Pool & Lifecycle"
+community: "Driver Switch & Convergence"
 location: "adapter_test.go:255-272"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Multi-DB_Pool_&_Lifecycle
+  - community/Driver_Switch__Convergence
 ---
 
 # TestNilField
 
 ## Connections
-- [[NewAdapter()]] - `calls` [EXTRACTED]
+- [[NewAdapter constructor]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Multi-DB_Pool_&_Lifecycle
+#graphify/code #graphify/EXTRACTED #community/Driver_Switch__Convergence

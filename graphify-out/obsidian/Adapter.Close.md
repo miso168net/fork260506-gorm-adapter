@@ -1,17 +1,18 @@
 ---
 source_file: "adapter.go"
 type: "code"
-community: "Multi-DB Pool & Lifecycle"
+community: "Adapter Lifecycle"
 location: "adapter.go:328-331"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Multi-DB_Pool_&_Lifecycle
+  - community/Adapter_Lifecycle
 ---
 
 # Adapter.Close
 
 ## Connections
-- [[finalizer()]] - `calls` [EXTRACTED]
+- [[AC-009 expose Open, Close, AddLogger lifecycle methods]] - `references` [EXTRACTED]
+- [[finalizer]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Multi-DB_Pool_&_Lifecycle
+#graphify/code #graphify/EXTRACTED #community/Adapter_Lifecycle

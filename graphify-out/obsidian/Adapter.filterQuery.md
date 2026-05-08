@@ -13,6 +13,7 @@ tags:
 
 ## Connections
 - [[Adapter.LoadFilteredPolicy]] - `calls` [EXTRACTED]
-- [[Filter]] - `references` [EXTRACTED]
+- [[Filter V0-V6 vs CasbinRule V0-V7 asymmetry (V7 storable not filterable)]] - `rationale_for` [INFERRED]
+- [[Filter struct]] - `references` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Filtered_Policy_Loading

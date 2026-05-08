@@ -1,12 +1,12 @@
 ---
 source_file: "adapter_test.go"
 type: "code"
-community: "CasbinRule Model & Policy CRUD"
+community: "Persist & LoadPolicy Path"
 location: "adapter_test.go:274-311"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/CasbinRule_Model_&_Policy_CRUD
+  - community/Persist__LoadPolicy_Path
 ---
 
 # testAutoSave
@@ -17,4 +17,4 @@ tags:
 - [[Adapter.RemovePolicy]] - `references` [INFERRED]
 - [[TestAdapters]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/INFERRED #community/CasbinRule_Model_&_Policy_CRUD
+#graphify/code #graphify/INFERRED #community/Persist__LoadPolicy_Path

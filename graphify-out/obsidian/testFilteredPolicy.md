@@ -13,7 +13,7 @@ tags:
 
 ## Connections
 - [[Adapter.LoadFilteredPolicy]] - `references` [INFERRED]
-- [[Filter]] - `references` [EXTRACTED]
+- [[Filter struct]] - `references` [EXTRACTED]
 - [[TestAdapters]] - `calls` [EXTRACTED]
 
 #graphify/code #graphify/EXTRACTED #community/Filtered_Policy_Loading

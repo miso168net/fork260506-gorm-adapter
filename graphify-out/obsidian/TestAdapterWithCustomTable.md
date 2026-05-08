@@ -1,17 +1,17 @@
 ---
 source_file: "adapter_test.go"
 type: "code"
-community: "Adapter Construction & DB Open"
+community: "AutoMigrate Discipline"
 location: "adapter_test.go:367-391"
 tags:
   - graphify/code
   - graphify/INFERRED
-  - community/Adapter_Construction_&_DB_Open
+  - community/AutoMigrate_Discipline
 ---
 
 # TestAdapterWithCustomTable
 
 ## Connections
-- [[NewAdapterByDBWithCustomTable()]] - `references` [INFERRED]
+- [[NewAdapterByDBWithCustomTable]] - `references` [INFERRED]
 
-#graphify/code #graphify/INFERRED #community/Adapter_Construction_&_DB_Open
+#graphify/code #graphify/INFERRED #community/AutoMigrate_Discipline

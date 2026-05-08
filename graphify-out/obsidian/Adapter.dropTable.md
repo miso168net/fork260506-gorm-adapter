@@ -1,12 +1,12 @@
 ---
 source_file: "adapter.go"
 type: "code"
-community: "CasbinRule Model & Policy CRUD"
+community: "Filter Query Helpers"
 location: "adapter.go:380-387"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/CasbinRule_Model_&_Policy_CRUD
+  - community/Filter_Query_Helpers
 ---
 
 # Adapter.dropTable
@@ -14,4 +14,4 @@ tags:
 ## Connections
 - [[Adapter.getTableInstance]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/CasbinRule_Model_&_Policy_CRUD
+#graphify/code #graphify/EXTRACTED #community/Filter_Query_Helpers

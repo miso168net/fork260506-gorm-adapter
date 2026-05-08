@@ -12,7 +12,7 @@ tags:
 # initAdapter test helper
 
 ## Connections
-- [[NewAdapter()]] - `calls` [EXTRACTED]
+- [[NewAdapter constructor]] - `calls` [EXTRACTED]
 - [[TestAdapters]] - `calls` [EXTRACTED]
 - [[initPolicy test helper]] - `calls` [EXTRACTED]
 

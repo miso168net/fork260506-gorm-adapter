@@ -1,18 +1,18 @@
 ---
 source_file: "adapter_test.go"
 type: "code"
-community: "Adapter Construction & DB Open"
+community: "AutoMigrate Discipline"
 location: "adapter_test.go:393-441"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/Adapter_Construction_&_DB_Open
+  - community/AutoMigrate_Discipline
 ---
 
 # TestAdapterWithoutAutoMigrate
 
 ## Connections
-- [[NewAdapterByDBWithCustomTable()]] - `calls` [EXTRACTED]
-- [[TurnOffAutoMigrate()]] - `calls` [EXTRACTED]
+- [[NewAdapterByDBWithCustomTable]] - `calls` [EXTRACTED]
+- [[TurnOffAutoMigrate]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/Adapter_Construction_&_DB_Open
+#graphify/code #graphify/EXTRACTED #community/AutoMigrate_Discipline
